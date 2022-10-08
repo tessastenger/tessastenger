@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @tessastenger
+- 👀 I’m interested in ... tableau visualizations, hiking & frolicking Oregon wildflowers.
+- 🌱 I’m currently learning ... python!
+- 📫 How to reach me ... stenger.tessa@gmail.com
